@@ -2,8 +2,8 @@ name: flutty_gravity_icons
 description: "A polished Flutter icon pack for Gravity Icons with 781 glyphs as ready-to-use IconData constants."
 version: 1.0.0
 homepage: https://gravity-ui.com/libraries/icons
-repository: https://github.com/miregma/flutty_gravity_icons
-issue_tracker: https://github.com/miregma/flutty_gravity_icons/issues
+repository: https://github.com/FluttyUI/gravity_icons_port
+issue_tracker: https://github.com/FluttyUI/gravity_icons_port/issues
 topics:
   - icons
   - flutter
